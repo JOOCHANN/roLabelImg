@@ -1,7 +1,5 @@
-ship
-plane
-dog
-person
-cat
-tv
-car
+working_factory
+unworking_factory
+cloud
+roundabout
+storage_tank
