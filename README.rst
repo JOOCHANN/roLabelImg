@@ -125,6 +125,7 @@ and `install lxml <http://lxml.de/installation.html>`__.
 Open cmd and go to `roLabelImg <#roLabelimg>`__ directory
 
 .. code::
+
     conda create -n rolabel python=3.7 -y
     conda activate rolabel
     pip install lxml
